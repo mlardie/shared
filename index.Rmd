@@ -1,6 +1,6 @@
 ---
 title: "index.Rmd"
-author: "Anne"
+author: "Anne and Mary"
 date: "October 23, 2018"
 output: html_document
 ---
@@ -8,6 +8,9 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+
+
 
 ## R Markdown
 
