@@ -9,7 +9,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r}
+# install.packages("devtools")
+devtools::install_github("hadley/emo")
+```
 
+
+:sheep:
 
 
 ## R Markdown
